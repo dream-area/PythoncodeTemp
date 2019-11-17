@@ -8,3 +8,5 @@ while i < 100:
 	elif i // 10 ==7:
 		continue
 	print(i)
+
+# just test for the git/github
